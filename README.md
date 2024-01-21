@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=msaimm&locale=en&mode=daily&theme=react&hide_border=true&border_radius=7&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaimm&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true" height="135" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaimm&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
